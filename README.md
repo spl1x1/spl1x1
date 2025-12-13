@@ -1,4 +1,4 @@
-## Welcome
+<img width="3328" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/2dcdec97-e056-41f5-97be-40f6307c5aaf" />
 
 [![](https://raw.githubusercontent.com/spl1x1/spl1x1/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/spl1x1/spl1x1/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/spl1x1/spl1x1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
